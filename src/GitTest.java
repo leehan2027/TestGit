@@ -10,6 +10,7 @@ import java.util.function.Consumer;
 //    public void eat(int a,int b);
 //}
 // 测试dev分支
+// 第二次测试dev
 public class GitTest {
     @Test
     public void test() {
