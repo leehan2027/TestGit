@@ -9,6 +9,7 @@ import java.util.function.Consumer;
 //interface Sab{
 //    public void eat(int a,int b);
 //}
+// 测试dev分支
 public class GitTest {
     @Test
     public void test() {
