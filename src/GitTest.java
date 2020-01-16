@@ -68,5 +68,4 @@ public class GitTest {
         System.out.println("Positive count: " + count);
     }
     // todo master, dev
->>>>>>> dev
 }
