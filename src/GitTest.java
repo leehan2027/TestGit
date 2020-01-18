@@ -68,4 +68,5 @@ public class GitTest {
         System.out.println("Positive count: " + count);
     }
     // todo master, dev  冲突了 演示测试冲突
+    // idea push
 }
